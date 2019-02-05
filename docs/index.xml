@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iain Bromley</title>
+    <link>https://ibromley.github.io/</link>
+    <description>Recent content on Iain Bromley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Jun 2018 21:15:14 -0700</lastBuildDate>
+    
+	<atom:link href="https://ibromley.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://ibromley.github.io/about-me/</link>
+      <pubDate>Sun, 17 Jun 2018 21:15:14 -0700</pubDate>
+      
+      <guid>https://ibromley.github.io/about-me/</guid>
+      <description>Hello! I&amp;rsquo;m Iain Bromley, and I will be a software engineer at Visa this fall. I just recieved my Bachelors degree from the Information School at the University of Washington. I love learning about new technologies, developing solutions to challenging problems, and changing lives with information (okay, maybe not that last one). Also, I have a penchant for transportation networks and their respective infrastructure, specifically in the Greater Seattle Area. If you&amp;rsquo;re intersted or want to connect, feel free to reach out!</description>
+    </item>
+    
+  </channel>
+</rss>
